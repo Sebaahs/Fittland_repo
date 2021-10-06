@@ -1,0 +1,33 @@
+C:\Users\sebas\Desktop\GUI\BLL}\obj\Debug\BLL}.vbprojAssemblyReference.cache
+C:\Users\sebas\Desktop\GUI\BLL}\obj\Debug\BLL_.Resources.resources
+C:\Users\sebas\Desktop\GUI\BLL}\obj\Debug\BLL}.vbproj.GenerateResource.cache
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\BLL}.dll
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\BLL}.pdb
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\BLL}.xml
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\BE.dll
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\DAL.dll
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\BE.pdb
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\BE.xml
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\DAL.pdb
+C:\Users\sebas\Desktop\GUI\BLL}\bin\Debug\DAL.xml
+C:\Users\sebas\Desktop\GUI\BLL}\obj\Debug\BLL}.vbproj.CopyComplete
+C:\Users\sebas\Desktop\GUI\BLL}\obj\Debug\BLL}.dll
+C:\Users\sebas\Desktop\GUI\BLL}\obj\Debug\BLL}.xml
+C:\Users\sebas\Desktop\GUI\BLL}\obj\Debug\BLL}.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\BLL}.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\BLL}.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\BLL}.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\BE.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\DAL.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\BE.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\BE.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\DAL.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\bin\Debug\DAL.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL}.vbprojAssemblyReference.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL_.Resources.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL}.vbproj.GenerateResource.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL}.vbproj.CoreCompileInputs.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL}.vbproj.CopyComplete
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL}.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL}.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BLL}\obj\Debug\BLL}.pdb

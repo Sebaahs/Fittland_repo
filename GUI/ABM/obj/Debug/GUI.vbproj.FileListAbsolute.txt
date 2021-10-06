@@ -1,0 +1,47 @@
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\GUI.vbprojAssemblyReference.cache
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\ABM.Form1.resources
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\ABM.Form2.resources
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\ABM.Resources.resources
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\GUI.vbproj.GenerateResource.cache
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\ABM.exe.config
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\ABM.exe
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\ABM.pdb
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\ABM.xml
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\BE.dll
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\BLL}.dll
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\DAL.dll
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\BE.pdb
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\BE.xml
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\BLL}.pdb
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\BLL}.xml
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\DAL.pdb
+C:\Users\sebas\Desktop\GUI\ABM\bin\Debug\DAL.xml
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\GUI.vbproj.CopyComplete
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\ABM.exe
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\ABM.xml
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\ABM.pdb
+C:\Users\sebas\Desktop\GUI\ABM\obj\Debug\ABM.Form3.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\ABM.exe.config
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\ABM.exe
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\ABM.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\ABM.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\BE.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\BLL}.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\DAL.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\BE.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\BE.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\BLL}.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\BLL}.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\DAL.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\bin\Debug\DAL.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\GUI.vbprojAssemblyReference.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\ABM.Form1.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\ABM.Form2.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\ABM.Form3.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\ABM.Resources.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\GUI.vbproj.GenerateResource.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\GUI.vbproj.CoreCompileInputs.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\GUI.vbproj.CopyComplete
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\ABM.exe
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\ABM.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\ABM\obj\Debug\ABM.pdb

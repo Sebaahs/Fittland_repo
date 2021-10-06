@@ -1,0 +1,19 @@
+C:\Users\sebas\Desktop\GUI\BE\bin\Debug\BE.dll
+C:\Users\sebas\Desktop\GUI\BE\bin\Debug\BE.pdb
+C:\Users\sebas\Desktop\GUI\BE\bin\Debug\BE.xml
+C:\Users\sebas\Desktop\GUI\BE\obj\Debug\BE.vbprojAssemblyReference.cache
+C:\Users\sebas\Desktop\GUI\BE\obj\Debug\BE.Resources.resources
+C:\Users\sebas\Desktop\GUI\BE\obj\Debug\BE.vbproj.GenerateResource.cache
+C:\Users\sebas\Desktop\GUI\BE\obj\Debug\BE.dll
+C:\Users\sebas\Desktop\GUI\BE\obj\Debug\BE.xml
+C:\Users\sebas\Desktop\GUI\BE\obj\Debug\BE.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\bin\Debug\BE.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\bin\Debug\BE.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\bin\Debug\BE.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\obj\Debug\BE.vbprojAssemblyReference.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\obj\Debug\BE.Resources.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\obj\Debug\BE.vbproj.GenerateResource.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\obj\Debug\BE.vbproj.CoreCompileInputs.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\obj\Debug\BE.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\obj\Debug\BE.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\BE\obj\Debug\BE.pdb

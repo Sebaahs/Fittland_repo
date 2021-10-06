@@ -1,0 +1,27 @@
+C:\Users\sebas\Desktop\GUI\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\sebas\Desktop\GUI\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\sebas\Desktop\GUI\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\sebas\Desktop\GUI\DAL\bin\Debug\DAL.dll
+C:\Users\sebas\Desktop\GUI\DAL\bin\Debug\DAL.pdb
+C:\Users\sebas\Desktop\GUI\DAL\bin\Debug\DAL.xml
+C:\Users\sebas\Desktop\GUI\DAL\bin\Debug\BE.dll
+C:\Users\sebas\Desktop\GUI\DAL\bin\Debug\BE.pdb
+C:\Users\sebas\Desktop\GUI\DAL\bin\Debug\BE.xml
+C:\Users\sebas\Desktop\GUI\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\sebas\Desktop\GUI\DAL\obj\Debug\DAL.dll
+C:\Users\sebas\Desktop\GUI\DAL\obj\Debug\DAL.xml
+C:\Users\sebas\Desktop\GUI\DAL\obj\Debug\DAL.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\bin\Debug\DAL.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\bin\Debug\DAL.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\bin\Debug\DAL.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\bin\Debug\BE.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\bin\Debug\BE.pdb
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\bin\Debug\BE.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.Resources.resources
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.dll
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.xml
+C:\DISEÑO\programas\Visual Basic\Fittland\GUI\DAL\obj\Debug\DAL.pdb
